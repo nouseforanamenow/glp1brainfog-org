@@ -7,7 +7,7 @@
   </url>
   <url>
     <loc>https://glp1brainfog.org/blog/</loc>
-    <lastmod>2026-10-18</lastmod>
+    <lastmod>2026-10-20</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -43,6 +43,11 @@
   <url>
     <loc>https://glp1brainfog.org/blog/glp-1-dehydration/</loc>
     <lastmod>2026-10-20</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://glp1brainfog.org/blog/exercise-on-a-glp-1/</loc>
+    <lastmod>2026-10-18</lastmod>
     <priority>0.7</priority>
   </url>
 </urlset>
