@@ -7,7 +7,7 @@
   </url>
   <url>
     <loc>https://glp1brainfog.org/blog/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-17</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -63,6 +63,11 @@
   <url>
     <loc>https://glp1brainfog.org/blog/glp-1-muscle-loss/</loc>
     <lastmod>2026-10-18</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://glp1brainfog.org/blog/glp-1-not-eating-enough/</loc>
+    <lastmod>2026-10-27</lastmod>
     <priority>0.7</priority>
   </url>
 </urlset>
